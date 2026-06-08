@@ -8,5 +8,6 @@ int main() {
         }
         printf("\n");
     }
+    printf("smit \n");
     return 0;
 }
